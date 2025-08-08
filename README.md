@@ -1528,3 +1528,4 @@ Additionally your class may implement the following method in order to support a
 
 * **(constructor)**() - Creates a new agent instance for communicating with a running Pageant agent process.
 # ssh23
+# ssh3
